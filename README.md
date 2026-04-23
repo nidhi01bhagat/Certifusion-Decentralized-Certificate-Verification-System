@@ -75,6 +75,9 @@ User → Frontend → Backend → Smart Contract (Ethereum)
 * Enhance UI/UX
 * Expand support for multiple certificate formats
 
+## Demo
+
+<img width="1919" height="899" alt="image" src="https://github.com/user-attachments/assets/d63199ae-ecf6-4c8c-b005-0ae61033f8c4" />
 
 ## Live Demo
 https://certifusion.vercel.app
