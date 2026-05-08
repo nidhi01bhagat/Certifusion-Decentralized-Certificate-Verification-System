@@ -72,7 +72,7 @@ User → Frontend → Backend → Smart Contract (Ethereum)
 ##  Future Improvements
 * Improve scalability and performance
 * Add role-based authentication
-* Enhance UI/UX
+* Enhance  UI/UX
 * Expand support for multiple certificate formats
 
 ## Demo
